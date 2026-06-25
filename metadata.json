@@ -1,0 +1,8 @@
+{
+  "name": "Citizen Portal & GovOps Demo",
+  "description": "A microservices-based citizen portal with K8s monitoring mockups, officer dashboards, and complaint management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
